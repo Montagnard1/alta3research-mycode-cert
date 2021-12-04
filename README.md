@@ -15,9 +15,16 @@ on a live system.
 
 ### Prerequisites
 
-What things are needed to install the software and how to install them. For now, maybe copy in
-"how to install python and python3 using apt."
 
+------------------------------------------------------
+TO RUN THE "alta3research-requests02.py" PROGRAM:
+As explained in the file "alta3research-requests02.py", this program requires your personal API key that you can generate here:
+https://quickfs.net/features/public-api
+
+Then, you need to put that key in a file named "my_quickfs_key" in a directory.
+And put this file in the path you will have specified in the variable "key_path" just below the initial imports in the program.
+For example:  key_path = "/home/student/.ssh/"
+------------------------------------------------------
 ## Built With
 
 * [Python](https://www.python.org/) - The coding language used
