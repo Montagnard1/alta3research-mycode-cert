@@ -29,7 +29,7 @@ a) Enter new equipment in the database (
 b) View all records of the database as an html page
 c) View all records in the database in the JSON format
 
-
+If desired, "send_request_to_API.py" can be used to send a get request to "http://127.0.0.1:2224/list-json" to view all records in the database in the JSON format.
 ------------------------------------------------------
 TO RUN THE "alta3research-requests02.py" PROGRAM:
 As explained in the file "alta3research-requests02.py", this program requires your personal API key that you can generate here:
